@@ -4,6 +4,8 @@ An automated image tagging program written in Ruby using the Imagga API: (https:
 
 Kohaku is primarily targeted towards individuals who store a lot of pictures locally, such as imageboard users. It works best with large, non-vector images - particularly of landscapes and people.
 
+Expect Kohaku to get angry at you for strange inputs. Error handling/checking has yet to be extensively implemented.
+
 ## requirements
 
 * Ruby 2.x or higher
@@ -14,6 +16,8 @@ Kohaku is primarily targeted towards individuals who store a lot of pictures loc
 1. clone this repo / download the .zip
 2. open your preferred terminal emulator in the `kohaku` directory
 3. type `ruby kohaku.rb`
+
+**NOTE:** Please give Kohaku a directory of only .jpg images for now - more testing has yet to be completed with other formats.
 
 ## current limitations
 
