@@ -2,6 +2,8 @@
 
 An automated image tagging program written in Ruby using the Imagga API: (https://imagga.com)
 
+Kohaku is primarily targeted towards individuals who store a lot of pictures locally, such as imageboard users. It works best with large, non-vector images - particularly of landscapes and people.
+
 ## requirements
 
 * Ruby 2.x or higher
@@ -12,6 +14,15 @@ An automated image tagging program written in Ruby using the Imagga API: (https:
 1. clone this repo / download the .zip
 2. open your preferred terminal emulator in the `kohaku` directory
 3. type `ruby kohaku.rb`
+
+## current limitations
+
+### fixable limitations
+* only works with .jpg files, other formats will be included **very** soon
+
+### unfixable (imagga) limitations
+* close-ups of objects where only part of the object can be seen tends to produce odd tags
+* .gifs don't work! this is a limitation on imagga's end, but still good to note
 
 ## TODO:
 
