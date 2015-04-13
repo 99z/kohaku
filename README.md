@@ -7,6 +7,12 @@ An automated image tagging program written in Ruby using the Imagga API: (https:
 
 * an Imagga (https://imagga.com) account
 
+## usage
+
+1. clone this repo / download the .zip
+2. open your preferred terminal emulator in the `kohaku` directory
+3. type `ruby kohaku.rb`
+
 ## TODO:
 
 * create readme banner :)
