@@ -1,4 +1,5 @@
-# kohaku
+![kohaku banner](http://a.pomf.se/vxtswv.png)
+
 An automated image tagging program written in Ruby using the Imagga API: (https://imagga.com)
 
 ## requirements
