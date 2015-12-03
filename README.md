@@ -30,6 +30,7 @@ Expect Kohaku to get angry at you for strange inputs. Error handling/checking ha
 
 ## TODO:
 
+* **update to work with clarifai.com**
 * create a better readme
 * comments
 * support for multiple file formats
