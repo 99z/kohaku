@@ -1,4 +1,4 @@
-![kohaku banner](http://a.pomf.se/vxtswv.png)
+![kohaku banner](https://my.mixtape.moe/okwbjv.png)
 
 An automated image tagging program written in Ruby using the Imagga API: (https://imagga.com)
 
